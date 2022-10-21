@@ -6,8 +6,12 @@ View nearby free sanitary resources
 
 # Inspiration 
 We were inspired to make this app because people face a lot of problems in their day to day life, and we didn’t want them to fall prey to another one. Talking from personal experience, period emergencies can ruin a perfectly fine day. People have to walk for long distances to find a sanitary product in case they forget it. So in order to solve that problem, we created an app that delivers a sanitary product directly to you or finds you the nearest restroom/sanitary product vending machine.
-What it does TampAlert! is an app designed to make sure that no woman faces any kind of inconvenience because of the absence of a sanitary product when in need. The app focuses on building a diverse community that will help each other in need. In short, this app is just like Uber, but for sanitary products! It sends out messages to people in the TampAlert community within a 10 miles radius who are willing to supply sanitary products to people who are in immediate need, for a compensation.
-How we built it We used Android Studio as our IDE to implement the google maps api and the firebase api using XML and java language.
+
+# What it does 
+TampAlert! is an app designed to make sure that no woman faces any kind of inconvenience because of the absence of a sanitary product when in need. The app focuses on building a diverse community that will help each other in need. In short, this app is just like Uber, but for sanitary products! It sends out messages to people in the TampAlert community within a 10 miles radius who are willing to supply sanitary products to people who are in immediate need, for a compensation.
+
+# How we built it 
+We used Android Studio as our IDE to implement the google maps api and the firebase api using XML and java language.
 
 # Challenges we ran into 
 Debugging and managing the dependency errors and implementing the firebase data retrieval.
